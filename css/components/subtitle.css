@@ -1,0 +1,10 @@
+.title h2{
+	font-family: 'Press Start 2P';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 30px;
+	color: #FFF;
+	text-shadow: 4px 4px 0px #000000;
+	padding-left: 30px;
+}

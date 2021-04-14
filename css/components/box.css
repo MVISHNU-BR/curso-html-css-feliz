@@ -1,0 +1,12 @@
+#box {
+	display: inline-block;
+	border: 1px solid #000;
+	background: #3A4042;
+	box-shadow: 10px 10px 0px #000;
+	padding: 42px 44px;
+	text-align: center;
+}
+
+#box h1 {
+	margin-bottom: 28px; 
+}

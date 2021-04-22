@@ -1,5 +1,6 @@
-body {
+body, html{
 	font-family: "Fira Code", Arial, Helvetica, sans-serif;
+	height: 100%;
 }
 
 body, h1, h2, h3{

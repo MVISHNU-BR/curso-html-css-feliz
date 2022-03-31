@@ -4,14 +4,20 @@
     font-family: 'Press Start 2P';
     color: #FFF;
     font-size: 25px;
+    margin-bottom: 15px;
 }
 
 .skill-tec .icon{
     margin-right: 25px;
+    width: 90px
 }
 
 .skill-tec .right{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.skill-tec .title{
+    margin-bottom: 16px;
 }
